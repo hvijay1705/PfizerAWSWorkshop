@@ -1,6 +1,7 @@
 {
   "AWSTemplateFormatVersion": "2010-09-09",
   "Transform": "AWS::Serverless-2016-10-31",
+  "Description": "Hello !! This is Pfizer AWS Workshop Project v 1.0",
   "Outputs": {
     "RestAPIId": {
       "Value": {
